@@ -1,0 +1,12 @@
+#div {
+	width: 600px; 
+	box-sizing: border-box;
+}
+.xam, .trang {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.xam {
+	background: gray;
+}
